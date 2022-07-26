@@ -1,0 +1,11 @@
+C:\Users\Mustafi\Desktop\HimadWise\C#\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\Mustafi\Desktop\HimadWise\C#\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\Mustafi\Desktop\HimadWise\C#\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\Mustafi\Desktop\HimadWise\C#\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.AssemblyReference.cache
+C:\Users\Mustafi\Desktop\HimadWise\C#\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mustafi\Desktop\HimadWise\C#\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+C:\Users\Mustafi\Desktop\HimadWise\C#\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\Mustafi\Desktop\HimadWise\C#\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+C:\Users\Mustafi\Desktop\HimadWise\C#\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\Mustafi\Desktop\HimadWise\C#\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\Mustafi\Desktop\HimadWise\C#\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.pdb
